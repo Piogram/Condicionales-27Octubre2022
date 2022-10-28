@@ -12,7 +12,8 @@ elif esPar and numero < 0:
     print("Negativo Par")
 elif not esPar and numero < 0:
     print("Negativo Impar")
-    
+
+
 # Opcion 2
 if numero == 0:
     print("Neutro")
